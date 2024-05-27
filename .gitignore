@@ -1,0 +1,10 @@
+.vs/
+Library/
+Logs/
+obj/
+UserSetetings/
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+AstarPathfindingProject.csproj
+AstarPathfindingProjectEditor.csproj
+PackageToolsEditor.csproj
